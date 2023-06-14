@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG
 
+## [1.1.0](https://github.com/qkrdkwl9090/animation_port_foilo/compare/v1.0.0...v1.1.0) (2023-06-14)
+
+
+### ✨ Features
+
+* **github-page:** set gh-pages ([d3a9b9e](https://github.com/qkrdkwl9090/animation_port_foilo/commit/d3a9b9ef35b82acc8446b6952e7e64e0d0559d28))
+
 ## 1.0.0 (2023-06-14)
 
 
