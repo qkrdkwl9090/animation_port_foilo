@@ -19,7 +19,14 @@ export default defineNuxtConfig({
       link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
     },
   },
+  modules: ['@hypernym/nuxt-gsap'],
   css: ['@/assets/styles/main.css'],
+  gsap: {
+    extraPlugins: {
+      observer: true,
+      scrollTrigger: true,
+    },
+  },
   postcss: {
     plugins: {
       tailwindcss: {},
