@@ -12,6 +12,7 @@ const meta = [
 ]
 export default defineNuxtConfig({
   app: {
+    baseURL: '/animation_port_foilo/',
     head: {
       title: 'Portfolio',
       htmlAttrs: { lang: 'ko' },

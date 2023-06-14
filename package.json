@@ -5,7 +5,8 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "deploy": "gh-pages -d .output/public -t true"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
@@ -13,6 +14,7 @@
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-nuxt": "^4.0.0",
     "eslint-plugin-vue": "^9.14.1",
+    "gh-pages": "^5.0.0",
     "postcss": "^8.4.24",
     "sass": "^1.63.3",
     "sass-loader": "^13.3.2",
