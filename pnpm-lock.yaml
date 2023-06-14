@@ -1,6 +1,9 @@
 lockfileVersion: '6.0'
 
 devDependencies:
+  '@hypernym/nuxt-gsap':
+    specifier: ^2.2.2
+    version: 2.2.2
   autoprefixer:
     specifier: ^10.4.14
     version: 10.4.14(postcss@8.4.24)
@@ -645,6 +648,12 @@ packages:
 
   /@humanwhocodes/object-schema@1.2.1:
     resolution: {integrity: sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==}
+    dev: true
+
+  /@hypernym/nuxt-gsap@2.2.2:
+    resolution: {integrity: sha512-of36aoK0o6TEGOn6S/x4xRcq7JIv1s67sRCAp0Wcj93uQKrrmC5F3ja3S5dAnj5n3u87O8d6VhcYudO2J+XXaQ==}
+    dependencies:
+      gsap: 3.12.1
     dev: true
 
   /@ioredis/commands@1.2.0:
@@ -2979,6 +2988,10 @@ packages:
 
   /graphemer@1.4.0:
     resolution: {integrity: sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag==}
+    dev: true
+
+  /gsap@3.12.1:
+    resolution: {integrity: sha512-FXtb2YbBE9l8I9Pl5DFLpCMedaiMPztRlr0Ln0CMSnJn+pbTaeKlzgth8cLNPc7PzNwIZe+SEQiBBAWaBKJdVA==}
     dev: true
 
   /gzip-size@7.0.0:
