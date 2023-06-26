@@ -1,0 +1,1 @@
+import{a as s,f as n,r,o}from"./entry.a6ed1912.js";const t={},c={class:"min-h-screen w-screen | overflow-x-hidden shrink-0"};function a(e,f){return o(),n("main",c,[r(e.$slots,"default")])}const _=s(t,[["render",a]]);export{_ as default};
