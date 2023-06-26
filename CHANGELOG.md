@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG
 
+## [1.2.1](https://github.com/qkrdkwl9090/animation_port_foilo/compare/v1.2.0...v1.2.1) (2023-06-26)
+
+
+### 🐛 Bug Fixes
+
+* **git-deploy:** add .nojekyll file ([dc9c249](https://github.com/qkrdkwl9090/animation_port_foilo/commit/dc9c2498841b6382a85a2674b560d09913f3a5dc))
+
 ## [1.2.0](https://github.com/qkrdkwl9090/animation_port_foilo/compare/v1.1.0...v1.2.0) (2023-06-26)
 
 
