@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG
 
+## [1.2.0](https://github.com/qkrdkwl9090/animation_port_foilo/compare/v1.1.0...v1.2.0) (2023-06-26)
+
+
+### ✨ Features
+
+* **index:** add page ([f1a0cab](https://github.com/qkrdkwl9090/animation_port_foilo/commit/f1a0cab010954dfe21331b182bf1c5607c47e649))
+
 ## [1.1.0](https://github.com/qkrdkwl9090/animation_port_foilo/compare/v1.0.0...v1.1.0) (2023-06-14)
 
 
