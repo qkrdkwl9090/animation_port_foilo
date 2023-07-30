@@ -3,9 +3,9 @@
     <article>
       <h3>GSAP</h3>
       <div class="mt-4">
-        <div class="card__container" @click="navigateTo({ path: '/gsap/1' })">
+        <NuxtLink class="card__container" to="/gsap/1">
           <img src="@\assets\imgs\main\gsap-1.png" alt="" />
-        </div>
+        </NuxtLink>
       </div>
     </article>
   </section>
@@ -18,7 +18,7 @@ h3 {
   @apply text-2xl font-bold text-[#5D4037];
 }
 .card__container {
-  @apply w-96 cursor-pointer;
+  @apply w-96 cursor-pointer block;
   & > img {
     @apply rounded-2xl grayscale;
     box-shadow: rgba(black, 0.66) 0 30px 60px 0, inset #333 0 0 0 5px,
