@@ -21,7 +21,11 @@ export default defineNuxtConfig({
     },
   },
   modules: ['@hypernym/nuxt-gsap'],
-  css: ['@/assets/styles/fonts.scss', '@/assets/styles/main.css'],
+  css: [
+    '@/assets/styles/fonts.scss',
+    '@/assets/styles/main.css',
+    'primeicons/primeicons.css',
+  ],
   gsap: {
     extraPlugins: {
       observer: true,
