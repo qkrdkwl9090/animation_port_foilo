@@ -1,5 +1,18 @@
 # 🚦 CHANGELOG
 
+## [1.3.0](https://github.com/qkrdkwl9090/animation_port_foilo/compare/v1.2.1...v1.3.0) (2023-08-01)
+
+
+### ♻️ Refactor
+
+* **tag:** change click event tag ([3cdba0a](https://github.com/qkrdkwl9090/animation_port_foilo/commit/3cdba0aec6d8fa668cd3f5144bcaac61bb3d7f1a))
+
+
+### ✨ Features
+
+* **comp:** header ([959edf0](https://github.com/qkrdkwl9090/animation_port_foilo/commit/959edf02d03b873fecb64cb14193ac86c1e3dd48))
+* **section:** add main section1 ([c10dae0](https://github.com/qkrdkwl9090/animation_port_foilo/commit/c10dae04b52051b62f07e8e612ab852f4944d9cf))
+
 ## [1.2.1](https://github.com/qkrdkwl9090/animation_port_foilo/compare/v1.2.0...v1.2.1) (2023-06-26)
 
 
