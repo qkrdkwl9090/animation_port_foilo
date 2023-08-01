@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG
 
+## [1.3.1](https://github.com/qkrdkwl9090/portfoilo/compare/v1.3.0...v1.3.1) (2023-08-01)
+
+
+### 🐛 Bug Fixes
+
+* **header:** absolute, mouse enter position ([0d0c5a4](https://github.com/qkrdkwl9090/portfoilo/commit/0d0c5a4a584371fc4d655535622f4cde68630413))
+
 ## [1.3.0](https://github.com/qkrdkwl9090/animation_port_foilo/compare/v1.2.1...v1.3.0) (2023-08-01)
 
 
