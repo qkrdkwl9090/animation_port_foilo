@@ -8,7 +8,7 @@ const menuList = {
 }
 </script>
 <template>
-  <div class="bg-black h-full relative">
+  <div class="bg-black absolute top-0 left-0 w-full z-50">
     <header
       class="px-5 md:px-10 h-[4.0625rem] md:h-[5.625rem] flex items-center justify-between border-b border-gray-500"
     >
@@ -41,14 +41,14 @@ const menuList = {
     <!-- pc Menu -->
     <div
       :class="menuOver ? 'opacity-100' : 'opacity-0'"
-      @mouseenter="() => (menuOver = true)"
-      @mouseleave="() => (menuOver = false)"
       class="absolute top-[5.625rem] left-0 | text-white bg-black w-full transition-opacity duration-300"
     >
       <section class="py-6 flex items-start justify-center">
         <nav
           class="h-full flex flex-col gap-4 items-center justify-start border-gray-300 [&+&]:border-l"
           v-for="(value, key) in menuList"
+          @mouseenter="() => (menuOver = true)"
+          @mouseleave="() => (menuOver = false)"
           :key="key"
         >
           <NuxtLink
