@@ -8,7 +8,7 @@ const menuList = {
 }
 </script>
 <template>
-  <div class="bg-black absolute top-0 left-0 w-full z-50">
+  <div class="bg-black fixed top-0 left-0 w-full z-50">
     <header
       class="px-5 md:px-10 h-[4.0625rem] md:h-[5.625rem] flex items-center justify-between border-b border-gray-500"
     >
