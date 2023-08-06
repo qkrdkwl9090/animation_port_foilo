@@ -25,6 +25,7 @@ export default defineNuxtConfig({
     '@/assets/styles/fonts.scss',
     '@/assets/styles/main.css',
     'primeicons/primeicons.css',
+    '@/assets/styles/restyle.scss',
   ],
   gsap: {
     extraPlugins: {
