@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG
 
+## [1.4.0](https://github.com/qkrdkwl9090/portfoilo/compare/v1.3.1...v1.4.0) (2023-08-06)
+
+
+### ✨ Features
+
+* **section:** add section2, 3 ([51e8005](https://github.com/qkrdkwl9090/portfoilo/commit/51e8005a74e5e7fe58d67cd2a93938b79c61f6dc))
+
 ## [1.3.1](https://github.com/qkrdkwl9090/portfoilo/compare/v1.3.0...v1.3.1) (2023-08-01)
 
 
