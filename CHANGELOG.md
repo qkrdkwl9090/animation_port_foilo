@@ -1,5 +1,16 @@
 # 🚦 CHANGELOG
 
+## [2.0.0](https://github.com/qkrdkwl9090/portfoilo/compare/v1.3.1...v2.0.0) (2023-08-23)
+
+
+### ✨ Features
+
+* **main:** new main page ([8def6c1](https://github.com/qkrdkwl9090/portfoilo/commit/8def6c186d1521d79e3d47af9aa52a62da6ce72d))
+* **main:** section1 ([e4a1da1](https://github.com/qkrdkwl9090/portfoilo/commit/e4a1da1edbb8a9ce882f9fb7d6516fcf8669ed71))
+* **main:** section2 ([c7e41ce](https://github.com/qkrdkwl9090/portfoilo/commit/c7e41ce649236cb4549fb4a632bf1fab1485efb3))
+* **main:** section3 ([1daebda](https://github.com/qkrdkwl9090/portfoilo/commit/1daebda8b1e0e74bcd083988b9d32df000f9789d))
+* **section:** add section2, 3 ([51e8005](https://github.com/qkrdkwl9090/portfoilo/commit/51e8005a74e5e7fe58d67cd2a93938b79c61f6dc))
+
 ## [1.3.1](https://github.com/qkrdkwl9090/portfoilo/compare/v1.3.0...v1.3.1) (2023-08-01)
 
 
