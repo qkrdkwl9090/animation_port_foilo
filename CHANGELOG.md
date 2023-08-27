@@ -1,5 +1,12 @@
 # 🚦 CHANGELOG
 
+## [2.1.0](https://github.com/qkrdkwl9090/portfoilo/compare/v2.0.0...v2.1.0) (2023-08-27)
+
+
+### ✨ Features
+
+* **grow:** add gsap animation, typing animation ([0b8254d](https://github.com/qkrdkwl9090/portfoilo/commit/0b8254d8c919342568262f8a00010089dbf6cfe4))
+
 ## [2.0.0](https://github.com/qkrdkwl9090/portfoilo/compare/v1.3.1...v2.0.0) (2023-08-23)
 
 
