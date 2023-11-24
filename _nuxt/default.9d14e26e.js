@@ -1,0 +1,1 @@
+import{a as s,f as n,v as o,o as r}from"./entry.bdb62540.js";const t={},c={class:"min-h-screen w-screen | overflow-x-hidden shrink-0"};function a(e,f){return r(),n("main",c,[o(e.$slots,"default")])}const _=s(t,[["render",a]]);export{_ as default};
