@@ -8,12 +8,12 @@ const list: Array<Item> = [
   {
     title: 'GSAP Animation 1',
     path: '/gsap/1',
-    image: '/portfoilo/img/main/1.webp',
+    image: '/nuxt3_portfoilo/img/main/1.webp',
   },
   {
     title: 'GROW',
     path: '/gsap/2',
-    image: '/portfoilo/img/main/2.webp',
+    image: '/nuxt3_portfoilo/img/main/2.webp',
   },
 ]
 </script>
