@@ -2,11 +2,13 @@ name: '[deploy] github page deploy'
 env:
   MY_EMAIL: qkrdkwl9090@naver.com
   MY_NAME: qkrdkwl9090
-  REPO_NAME: portfoilo
+  REPO_NAME: nuxt3-portfoilo
 on:
   workflow_dispatch:
   push:
     branches: [deploy]
+permissions:
+  contents: write
 
 jobs:
   build:
