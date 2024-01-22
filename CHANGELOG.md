@@ -1,5 +1,23 @@
 # 🚦 CHANGELOG
 
+## [2.2.0](https://github.com/qkrdkwl9090/nuxt3-portfoilo/compare/v2.1.0...v2.2.0) (2024-01-22)
+
+
+### 💫 CI/CD
+
+* **deploy:** add deploy actions ([5b81b60](https://github.com/qkrdkwl9090/nuxt3-portfoilo/commit/5b81b60d3cead870c55d1d586ec1bfb1e6f3a222))
+
+
+### 🐛 Bug Fixes
+
+* **ci:** github actions 동작 시, frozen lockfile로 인해 패키지 못찾아 수정 ([8ce0708](https://github.com/qkrdkwl9090/nuxt3-portfoilo/commit/8ce070839caeee299d307f9255f3f8f4a4218e14))
+* **deploy:** modify baseURL(repo name 변경) ([cdfe69d](https://github.com/qkrdkwl9090/nuxt3-portfoilo/commit/cdfe69d8e0028dce5d68d615a1b03ccf06db1e8a))
+
+
+### ✨ Features
+
+* **config:** modify base url ([7e2e29c](https://github.com/qkrdkwl9090/nuxt3-portfoilo/commit/7e2e29ca278272d3e12d62ad38cead7866b70a69))
+
 ## [2.1.0](https://github.com/qkrdkwl9090/portfoilo/compare/v2.0.0...v2.1.0) (2023-08-27)
 
 
