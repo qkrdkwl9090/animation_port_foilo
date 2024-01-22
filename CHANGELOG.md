@@ -1,5 +1,13 @@
 # 🚦 CHANGELOG
 
+## [2.2.1](https://github.com/qkrdkwl9090/nuxt3-portfoilo/compare/v2.2.0...v2.2.1) (2024-01-22)
+
+
+### ♻️ Refactor
+
+* **font:** font display swap ([5ff42fa](https://github.com/qkrdkwl9090/nuxt3-portfoilo/commit/5ff42fa03bcab8ddd9b14fb190be54bdb24d6d53))
+* **font:** use dynamic subset ([61af271](https://github.com/qkrdkwl9090/nuxt3-portfoilo/commit/61af271cc11b7a1572befae0469d319112be1db7))
+
 ## [2.2.0](https://github.com/qkrdkwl9090/nuxt3-portfoilo/compare/v2.1.0...v2.2.0) (2024-01-22)
 
 
